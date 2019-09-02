@@ -1,2 +1,3 @@
-# Numerical Analysis Python
- Python notebooks for Numerical Analysis
+# Numerical Analysis with Applications in Python
+This github has the code coresponding to the course Numerical Analysis for Ordinary and Partial Differential Equations.
+The 
