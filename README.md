@@ -14,17 +14,17 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 ### Chapter 3 Runge–Kutta methods 
 
 ### Chapter 4 multi-step methods
-#### Adam-Bashforth
-#### Adams-Moulton
-#### Predictor-Corrector method
+    - Adam-Bashforth method (explicit)
+    - Adams-Moulton (implicit)
+    - Predictor-Corrector method
 
 ### Chapter 5 Initial Value Problems Consistency, Convergence and Stability
 
 ## Part 2 numerical solutions to boundary value problems
 
 ### Chapter 7 Boundary Value Problems
-####  Shooting Methods 
-####  Finite Difference method
+    - Linear and non-linear Shooting Methods 
+    - Finite Difference method
 
 ## Part 3 numerical solutions to partial differential equations
 
