@@ -1,16 +1,19 @@
 # Numerical Analysis with Applications in Python
-This github has the Python code coresponding to the course [Numerical Analysis for Ordinary and Partial Differential Equations](http://127.0.0.1:7780/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf).
+This github has the Python code coresponding to the course [Numerical Analysis for Ordinary and Partial Differential Equations](https://johnsbutler.netlify.com/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf).
+
+If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org)
+
 
 ## Part 1 numerical solutions to ordinary differential equations 
 
 ### Chapter 1 numerical solutions to initial value problems
-####  One-Step Methods 
+    - One-Step Methods 
 
 ### Chapter 2 Higher Order Methods 
 
 ### Chapter 3 Runge–Kutta methods 
 
-### Chapter 4 multi-step methods 39
+### Chapter 4 multi-step methods
 #### Adam-Bashforth
 #### Adams-Moulton
 #### Predictor-Corrector method
