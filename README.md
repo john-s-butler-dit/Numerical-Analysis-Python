@@ -3,11 +3,12 @@ This github consists of Python code coresponding to the course [Numerical Analys
 
 If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org)
 
+[One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/01_Euler_method_with_Theorems_Growth_function.ipynb)
 
 ## Part 1 numerical solutions to ordinary differential equations 
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
-    - [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/01_Euler_method_with_Theorems_Growth_function.ipynb)
+- [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/01_Euler_method_with_Theorems_Growth_function.ipynb)
 
 ### Chapter 2 Higher Order Methods 
     - Taylor Method
