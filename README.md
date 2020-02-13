@@ -1,13 +1,14 @@
 # Numerical Analysis with Applications in Python
 This github consists of Python code coresponding to the course [Numerical Analysis for Ordinary and Partial Differential Equations](https://johnsbutler.netlify.com/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf).
 
-If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org)
+If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org/github/john-s-butler-dit/Numerical-Analysis-Python/blob/ab8b35e7256a5ef64ceefa2b9d5bf6ddaa5d2348/Chapter%2001%20-%20Euler%20Methods/01_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
+
 
 
 ## Part 1 numerical solutions to ordinary differential equations 
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
-    - One-Step Methods 
+- [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
 
 ### Chapter 2 Higher Order Methods 
     - Taylor Method
