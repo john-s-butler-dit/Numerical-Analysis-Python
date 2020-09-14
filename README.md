@@ -3,6 +3,7 @@ This github consists of Python code coresponding to the course [Numerical Analys
 
 If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org/github/john-s-butler-dit/Numerical-Analysis-Python/tree/master/)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/tree/master/)
 
 
 ## Part 1 numerical solutions to ordinary differential equations 
@@ -11,9 +12,10 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 - [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
 
 ### Chapter 2 Higher Order Methods 
-    - Taylor Method
+    - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
 
 ### Chapter 3 Runge–Kutta methods 
+    - [Runge Kutta](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2004%20-%20Multistep%20Methods)
 
 ### Chapter 4 Multi-step methods
     - Adam-Bashforth method (explicit)
@@ -26,18 +28,18 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 ## Part 2 Numerical Solutions to Boundary Value Problems
 
 
-### Chapter 7 Boundary Value Problems
+### Chapter 6 Boundary Value Problems
     - Linear and non-linear Shooting Methods 
     - Finite Difference method
 
 ## Part 3 Numerical Solutions to Partial Differential Equations
 
-### Chapter 10 Parabolic equations (Heat Equation)
+### Chapter 8 Parabolic equations (Heat Equation)
     - Explicit Finite Difference Method
     - Implicit Finite Difference Methods
-### Chapter 11 Elliptic PDE’s (Poisson Equation)
+### Chapter 9 Elliptic PDE’s (Poisson Equation)
 
-### Chapter 13 Hyperbolic Equations (Wave Equation)
+### Chapter 10 Hyperbolic Equations (Wave Equation)
 
-### Chapter 14 Variational and Finite Element methods 
+### Chapter 11 Variational and Finite Element methods 
 
