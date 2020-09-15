@@ -12,15 +12,15 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 - [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
 
 ### Chapter 2 Higher Order Methods 
-    - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
+   - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
 
 ### Chapter 3 Runge–Kutta methods 
-    - [Runge Kutta](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2004%20-%20Multistep%20Methods)
+   - [Runge Kutta](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2004%20-%20Multistep%20Methods)
 
 ### Chapter 4 Multi-step methods
-    - Adam-Bashforth method (explicit)
-    - Adams-Moulton (implicit)
-    - Predictor-Corrector method
+   - Adam-Bashforth method (explicit)
+   - Adams-Moulton (implicit)
+   - Predictor-Corrector method
 
 ### Chapter 5 Initial Value Problems Consistency, Convergence and Stability
 
@@ -29,14 +29,14 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 
 ### Chapter 6 Boundary Value Problems
-    - Linear and non-linear Shooting Methods 
-    - Finite Difference method
+   - Linear and non-linear Shooting Methods 
+   - Finite Difference method
 
 ## Part 3 Numerical Solutions to Partial Differential Equations
 
 ### Chapter 8 Parabolic equations (Heat Equation)
-    - Explicit Finite Difference Method
-    - Implicit Finite Difference Methods
+   - Explicit Finite Difference Method
+   - Implicit Finite Difference Methods
 ### Chapter 9 Elliptic PDE’s (Poisson Equation)
 
 ### Chapter 10 Hyperbolic Equations (Wave Equation)
