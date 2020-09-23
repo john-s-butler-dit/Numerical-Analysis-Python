@@ -44,7 +44,7 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
    
    - Non-Linear Shooting Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/602_Non-Linear%20Shooting%20Method-checkpoint.ipynb)
    - Finite Difference Method
-[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/603_Boundary%20Value%20Problem-checkpoint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/603_Boundary%20Value%20Problem-checkpoint.ipynb)
 
 ## Part 3 Numerical Solutions to Partial Differential Equations
 
