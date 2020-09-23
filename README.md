@@ -23,10 +23,12 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
    -  Runge Kutta applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2003%20-%20Runge%20Kutta/301_2nd%20Order%20Runge%20Kutta%20Population%20Equations.ipynb)
 
 ### Chapter 4 Multi-step methods
-   - Adam-Bashforth method (explicit)
-   - Adams-Moulton (implicit)
-   - Predictor-Corrector method
 
+   - Adam-Bashforth method (explicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/402_Adams%20Bashforth%20Population%20Equations.ipynb)
+
+   - Adams-Moulton (implicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/404_Adams%20Moulton%20Population%20Equations.ipynb)
+   - Predictor-Corrector method
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/405_Adams%20Predictor%20Corrector%20Example.ipynb)
 ### Chapter 5 Initial Value Problems Consistency, Convergence and Stability
 
 
