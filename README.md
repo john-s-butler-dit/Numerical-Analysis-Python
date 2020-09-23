@@ -51,18 +51,17 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 ### Chapter 8 Parabolic equations (Heat Equation)
    - Explicit Finite Difference Method
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/801_Heat%20Equation-%20FTCS.ipynb)
-   - Implicit Finite Difference Methods
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/802_Heat%20Equation-%20BTCS.ipynb)
+   - Implicit Finite Difference Methods [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/802_Heat%20Equation-%20BTCS.ipynb)
    - Crank Nicolson
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/803_Heat%20Equation-Crank_Nicolson.ipynb)
    
 ### Chapter 9 Elliptic PDE’s (Poisson Equation)
 - Homogenous Equation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/901_Poisson%20Equation-Laplacian.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/901_Poisson%20Equation-Laplacian.ipynb)
 - Inhomogeneous Equation with zero boundary conditions
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/902_Poisson%20Equation-Zero%20Boundary%20Conditions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/902_Poisson%20Equation-Zero%20Boundary%20Conditions.ipynb)
 - Inhomogeneous Equation with non-zero boundary conditions
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/903_Poisson%20Equation-Boundary.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/903_Poisson%20Equation-Boundary.ipynb)
 
 ### Chapter 10 Hyperbolic Equations
 - Wave Equation
