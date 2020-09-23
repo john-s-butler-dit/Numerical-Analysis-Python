@@ -68,7 +68,6 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1001_Wave%20Equation.ipynb)
 - Wave Equation Lax-Friedrich Method
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1002_Wave%20Equation-Lax-Friedrich.ipynb)
-
 -Wave Equation Lax-Wendroff Method  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1003_Wave%20Equation-Lax-Wendroff.ipynb)
 - Burger Equation 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1004_Burger%20Equation.ipynb)
