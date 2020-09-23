@@ -24,29 +24,54 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 ### Chapter 4 Multi-step methods
 
-   - Adam-Bashforth method (explicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/402_Adams%20Bashforth%20Population%20Equations.ipynb)
+   - Adam-Bashforth Method (explicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/402_Adams%20Bashforth%20Population%20Equations.ipynb)
 
-   - Adams-Moulton (implicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/404_Adams%20Moulton%20Population%20Equations.ipynb)
-   - Predictor-Corrector method
+   - Adams-Moulton Method (implicit) applied to Population Equations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/404_Adams%20Moulton%20Population%20Equations.ipynb)
+   - Predictor-Corrector Method
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2004%20-%20Multistep%20Methods/405_Adams%20Predictor%20Corrector%20Example.ipynb)
-### Chapter 5 Initial Value Problems Consistency, Convergence and Stability
+### Chapter 5 Analsyis of Methods for Initial Value Problems
+ - Consistency  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2005%20-%20IVP%20Consistent%20Convergence%20Stability/501_Consistent.ipynb)
+ - Convergence  [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2005%20-%20IVP%20Consistent%20Convergence%20Stability/502_Convergent.ipynb)
+ - Stability [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2005%20-%20IVP%20Consistent%20Convergence%20Stability/503_Stability.ipynb)
+ - Further Notes on Consistency, Convergence and Stability [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2005%20-%20IVP%20Consistent%20Convergence%20Stability/504_Futher%20Notes%20on%20Stability.ipynb)
 
 
 ## Part 2 Numerical Solutions to Boundary Value Problems
 
 
 ### Chapter 6 Boundary Value Problems
-   - Linear and non-linear Shooting Methods 
-   - Finite Difference method
+   - Linear Shooting Method [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/601_Linear%20Shooting%20Method-checkpoint.ipynb)
+   
+   - Non-Linear Shooting Method [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/602_Non-Linear%20Shooting%20Method-checkpoint.ipynb)
+   - Finite Difference Method
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/603_Boundary%20Value%20Problem-checkpoint.ipynb)
 
 ## Part 3 Numerical Solutions to Partial Differential Equations
 
 ### Chapter 8 Parabolic equations (Heat Equation)
    - Explicit Finite Difference Method
+   [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/801_Heat%20Equation-%20FTCS.ipynb)
    - Implicit Finite Difference Methods
+   [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/802_Heat%20Equation-%20BTCS.ipynb)
+   - Crank Nicolson
+   [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2008%20-%20Heat%20Equations/803_Heat%20Equation-Crank_Nicolson.ipynb)
+   
 ### Chapter 9 Elliptic PDE’s (Poisson Equation)
+- Homogenous Equation
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/901_Poisson%20Equation-Laplacian.ipynb)
+- Inhomogeneous Equation with zero boundary conditions
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/902_Poisson%20Equation-Zero%20Boundary%20Conditions.ipynb)
+- Inhomogeneous Equation with non-zero boundary conditions
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2009%20-%20Elliptic%20Equations/903_Poisson%20Equation-Boundary.ipynb)
 
-### Chapter 10 Hyperbolic Equations (Wave Equation)
+### Chapter 10 Hyperbolic Equations
+- Wave Equation
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1001_Wave%20Equation.ipynb)
+- Wave Equation Lax-Friedrich Method
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1002_Wave%20Equation-Lax-Friedrich.ipynb)
+-Wave Equation Lax-Wendroff Method  [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1003_Wave%20Equation-Lax-Wendroff.ipynb)
+- Burger Equation 
+[![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2010%20-%20Hyperbolic%20Equations/1004_Burger%20Equation.ipynb)
 
 ### Chapter 11 Variational and Finite Element methods 
 
