@@ -3,13 +3,14 @@ This github consists of Python code coresponding to the course [Numerical Analys
 
 If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org/github/john-s-butler-dit/Numerical-Analysis-Python/tree/master/)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/.ipynb_checkpoints/01_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
 
 
 ## Part 1 numerical solutions to ordinary differential equations 
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
 - [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
+   -  Euler Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/.ipynb_checkpoints/101_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
+   -  Euler Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/.ipynb_checkpoints/102_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
 
 ### Chapter 2 Higher Order Methods 
    - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
