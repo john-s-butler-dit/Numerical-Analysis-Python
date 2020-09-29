@@ -9,12 +9,12 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
 - [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
-   -  Euler Method applied to Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/.ipynb_checkpoints/101_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
-   -  Euler Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/.ipynb_checkpoints/102_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
+   -  Euler Method applied to Linear Population Equation [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/101_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
+   -  Euler Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/102_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
 
 ### Chapter 2 Higher Order Methods 
    - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
-      -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/.ipynb_checkpoints/201_3rd%20Order%20Taylor_Population_growth-checkpoint.ipynb)
+      -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/201_3rd%20Order%20Taylor_Population_growth-checkpoint.ipynb)
  
    
    
