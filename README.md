@@ -8,11 +8,11 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 ## Part 1 Numerical Solutions to Ordinary Differential Equations 
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
-   -  Euler Method applied to Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/101_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
+   -  Euler Method applied to Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/101_Euler_method_with_Theorems_Growth_function.ipynb)
    -  Euler Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/102_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
 
 ### Chapter 2 Higher Order Methods 
-   -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/201_3rd%20Order%20Taylor_Population_growth-checkpoint.ipynb)
+   -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/201_3rd%20Order%20Taylor_Population_growth.ipynb)
  
    
    
@@ -38,11 +38,11 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 
 ### Chapter 6 Boundary Value Problems
-   - Linear Shooting Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/601_Linear%20Shooting%20Method-checkpoint.ipynb)
+   - Linear Shooting Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/601_Linear%20Shooting%20Method.ipynb)
    
-   - Non-Linear Shooting Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/602_Non-Linear%20Shooting%20Method-checkpoint.ipynb)
+   - Non-Linear Shooting Method [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/602_Non-Linear%20Shooting%20Method.ipynb)
    - Finite Difference Method
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/603_Boundary%20Value%20Problem-checkpoint.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2006%20-%20Boundary%20Value%20Problems/.ipynb_checkpoints/603_Boundary%20Value%20Problem.ipynb)
 
 ## Part 3 Numerical Solutions to Partial Differential Equations
 
