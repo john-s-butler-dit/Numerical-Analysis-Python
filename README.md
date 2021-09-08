@@ -5,16 +5,14 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 
 
-## Part 1 numerical solutions to ordinary differential equations 
+## Part 1 Numerical Solutions to Ordinary Differential Equations 
 
 ### Chapter 1 Numerical Solutions to Initial Value Problems
-- [One-Step Methods](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2001%20-%20Euler%20Methods)
    -  Euler Method applied to Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/101_Euler_method_with_Theorems_Growth_function-checkpoint.ipynb)
    -  Euler Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2001%20-%20Euler%20Methods/102_Euler_method_with_Theorems_nonlinear_Growth_function.ipynb)
 
 ### Chapter 2 Higher Order Methods 
-   - [Taylor Method](https://github.com/john-s-butler-dit/Numerical-Analysis-Python/tree/master/Chapter%2002%20-%20Higher%20Order%20Methods)
-      -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/201_3rd%20Order%20Taylor_Population_growth-checkpoint.ipynb)
+   -  Taylor Method applied to Non-Linear Population Equation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/john-s-butler-dit/Numerical-Analysis-Python/blob/master/Chapter%2002%20-%20Higher%20Order%20Methods/201_3rd%20Order%20Taylor_Population_growth-checkpoint.ipynb)
  
    
    
@@ -75,24 +73,24 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 ## References
 
 
-[1] Strogatz, S.  Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering (studies in nonlinearity), Westview Press; 2 edition (29 July 2014)
+[1] Strogatz, S. (2014)  Nonlinear dynamics and chaos: with applications to physics, biology, chemistry, and engineering (studies in nonlinearity), Westview Press; 2 edition 
 
-[2] Brian Bradie, A Friendly Introduction to Numerical Analysis
+[2] Bradie, B., (2006). A Friendly Introduction to Numerical Analysis. Pearson Education India.
 
-[3] Atkinson, Han Elementary Numerical Analysis
+[3] Atkinson, K. E., & Han, W. (1993). Elementary numerical analysis. New York: Wiley.
 
-[4] Richard L. Burden, J. Douglas Faires, Numerical Analysis, Brooks/Cole 1997
+[4]  Burden, R. L., Faires, J. D., (1997). Numerical Analysis. Brooks/Cole 
 
-[5] J. Stoer and R. Bulirsch, Introduction to Numerical Analysis,
-Springer-Verlag 1980
+[5] Stoer, J., & Bulirsch, R.,  (1980). Introduction to Numerical Analysis. Springer-Verlag
 
-[6] G D Smith Numerical Solution of Partial Differential Equations:
-Finite Difference Method Oxford 1992
+[6] Smith, G. D., (1992) Numerical Solution of Partial Differential Equations:
+Finite Difference Method. Oxford 
 
 
 ------
 ## Supplementary Video Lectures 
-Steven Strogatz. (2021, March 1). Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University [Video]. YouTube. https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V
+Strogatz. S., (2021, March 1). Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University [Video]. YouTube. https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V
+
 
 ------
 ## Popular Videos 
