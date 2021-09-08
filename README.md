@@ -1,6 +1,8 @@
 # Numerical Analysis with Applications in Python
 This github consists of Python code coresponding to the course [Numerical Analysis for Ordinary and Partial Differential Equations](https://johnsbutler.netlify.com/files/Teaching/Numerical_Analysis_for_Differential_Equations.pdf).
 
+This is the [JupyterBook for the code](https://john-s-butler-dit.github.io/NumericalAnalysisBook/)
+
 If you have trouble viewing the jupyter files copy the link and paste into the [nbviewer website](https://nbviewer.jupyter.org/github/john-s-butler-dit/Numerical-Analysis-Python/tree/master/)
 
 
