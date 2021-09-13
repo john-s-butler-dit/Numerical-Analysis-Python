@@ -110,3 +110,9 @@ Strogatz, S. (2004). Sync: The emerging science of spontaneous order. Penguin UK
 ## Podcasts
 
 Strogatz, S.  (2019-2021). Joy of X. Quanta Magazine. https://www.quantamagazine.org/tag/the-joy-of-x
+In Our Time, (2014). e, BBC Radio 4 https://www.bbc.co.uk/programmes/b04hz49f
+
+----
+## Playlist
+
+<iframe src="https://open.spotify.com/embed/playlist/58fMf5qf9DGdrGqsY6laMS" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
