@@ -114,20 +114,4 @@ In Our Time, (2014). e, BBC Radio 4 https://www.bbc.co.uk/programmes/b04hz49f
 
 ----
 ## Playlist
-```html
-<iframe src="https://open.spotify.com/embed/playlist/58fMf5qf9DGdrGqsY6laMS" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-```
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
+Butler, J. S., (2021), Numerical Analysis Playlist https://open.spotify.com/embed/playlist/58fMf5qf9DGdrGqsY6laMS
