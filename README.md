@@ -85,9 +85,11 @@ If you have trouble viewing the jupyter files copy the link and paste into the [
 
 [5] Stoer, J., & Bulirsch, R.,  (1980). Introduction to Numerical Analysis. Springer-Verlag
 
-[6] Smith, G. D., (1992) Numerical Solution of Partial Differential Equations:
-Finite Difference Method. Oxford 
+[6] Smith, G. D., (1992) Numerical Solution of Partial Differential Equations:Finite Difference Method. Oxford 
 
+[7] Sirca, S., Horvat, M., 2018, Computational Methods in Physics: Compendium for Students, Second Edition, Springer ISBN: 978-3-319-78619-3
+
+[8] Brunton, S. L., & Kutz, J. N. (2019). Data-driven science and engineering: Machine learning, dynamical systems, and control. Cambridge University Press.
 
 ------
 ## Supplementary Video Lectures 
