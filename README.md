@@ -108,8 +108,6 @@ Tree, I. (2018). Wilding: The return of nature to a British farm. Pan Macmillan.
 
 Strogatz, S. (2004). Sync: The emerging science of spontaneous order. Penguin UK.
 
-Sokol, J, (2019). The Hidden Heroines of Chaos Quanta Magazine https://www.quantamagazine.org/hidden-heroines-of-chaos-ellen-fetter-and-margaret-hamilton-20190520/
-
 ----
 ## Podcasts
 
